@@ -1,4 +1,4 @@
-import javax.swing.ToolTipManager.outsideTimerAction;
+#!/usr/bin/env groovy
 
 if (args.length != 2) {
     println "Usage nc [destination] [port]";
